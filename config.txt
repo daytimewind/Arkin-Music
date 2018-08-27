@@ -1,3 +1,0 @@
-token=NDgzNTc5Njk5NzQ2OTYzNDU2.DmVhHQ.8noTyoa4euT6nB6LS5uWhz0LWJ0
-owner=266394141947199491
-prefix=d.
