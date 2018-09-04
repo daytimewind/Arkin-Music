@@ -1,3 +1,5 @@
+![Daikin Music](https://i.imgur.com/PWFGdt7.png)
+
 # Daikin-Music
 Daikin Music which based in Java runnning heroku! Don't miss out get in the bot this server!
 
