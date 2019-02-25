@@ -1,7 +1,7 @@
-![Daikin Music](https://i.imgur.com/PWFGdt7.png)
+![Arkin Music](https://images-ext-2.discordapp.net/external/FbS85GtoF-3hVw0LFLJeFiIm3VRT1MFSlDORiNN-q5g/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/483579699746963456/e664571047a22e4cbdeec38d123b6bc8.png?width=551&height=551)
 
-# Daikin-Music
-Daikin Music which based in Java runnning heroku! Don't miss out get in the bot this server!
+# Arkin-Music
+Arkin Music which based in Java runnning heroku! Don't miss out get in the bot this server!
 
 Bot invite:
 https://discordapp.com/oauth2/authorize?client_id=483579699746963456&scope=bot
