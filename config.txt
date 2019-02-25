@@ -29,7 +29,7 @@ owner=266394141947199491
 // If you do not set this, the prefix will be a mention of the bot (@Botname play)
 // If you make this blank, the bot will not use a prefix
 
-prefix=d.
+prefix=a.
 
 
 /////////////////////////////////////////////////////////////
